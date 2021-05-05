@@ -1,0 +1,2 @@
+# Starting compiling Mirror.Examples.dll
+D:\Unity\2020.2.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-94a78ea9eb30fd8468e15cdadfcf674a

@@ -1,0 +1,4 @@
+#Wed May 05 16:37:23 ICT 2021
+base.0=D\:\\DATN\\NetworkingTutorial_clone_0\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
